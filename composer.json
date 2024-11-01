@@ -1,0 +1,7 @@
+{
+    "name": "taeggie-com/taeggie_feed",
+    "description": "Social media feed plugin. Set up your feed at https://taeggie.com and display the feed using shortcode.",
+    "require": {
+        "php": "^3.0 || ^7.0"
+    }
+}
